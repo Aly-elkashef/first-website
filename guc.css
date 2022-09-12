@@ -1,0 +1,30 @@
+.ger{
+    position:relative;
+    top: -5px;
+    right: -1450px;
+    display: flex;
+    flex-wrap:wrap;
+}
+.container{
+    display:flex;
+    justify-content:center;
+    
+    margin:50px;
+    
+
+}
+.mail img{
+    width:200px;
+    height:200px;
+    margin:50px;
+}
+.cms img{
+    width:200px;
+    height:200px;
+    margin:50px;
+}
+.studentportal img{
+    width:200px;
+    height:200px;
+    margin:50px;
+}
